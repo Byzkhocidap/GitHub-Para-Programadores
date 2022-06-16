@@ -1,3 +1,2 @@
 # github-para-programadores
-mi primer repositorio
-klk
+Esto es una pruba en GitHub
